@@ -1,0 +1,8 @@
+c:\users\gert-jan\documents\visual studio 2015\Projects\fSharpApplication\fSharpApplication\bin\Debug\fSharpApplication.exe.config
+c:\users\gert-jan\documents\visual studio 2015\Projects\fSharpApplication\fSharpApplication\bin\Debug\fSharpApplication.XML
+c:\users\gert-jan\documents\visual studio 2015\Projects\fSharpApplication\fSharpApplication\bin\Debug\fSharpApplication.exe
+c:\users\gert-jan\documents\visual studio 2015\Projects\fSharpApplication\fSharpApplication\bin\Debug\fSharpApplication.pdb
+c:\users\gert-jan\documents\visual studio 2015\Projects\fSharpApplication\fSharpApplication\bin\Debug\FSharp.Core.dll
+c:\users\gert-jan\documents\visual studio 2015\Projects\fSharpApplication\fSharpApplication\bin\Debug\FSharp.Core.xml
+c:\users\gert-jan\documents\visual studio 2015\Projects\fSharpApplication\fSharpApplication\obj\Debug\fSharpApplication.exe
+c:\users\gert-jan\documents\visual studio 2015\Projects\fSharpApplication\fSharpApplication\obj\Debug\fSharpApplication.pdb
